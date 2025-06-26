@@ -1,0 +1,20 @@
+{
+  "name": "force-nat20",
+  "title": "Force Nat20 Hotkey",
+  "description": "Hold Ctrl + Numpad8 to make your next d20 roll an automatic 20. Works for all users. One-shot. Invisible. Works with Midi-QOL, Dice So Nice, etc.",
+  "version": "1.0.0",
+  "author": "OpenAI + You",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "12",
+  "scripts": ["force-nat20.js"],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "relationships": {},
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "bugs": "",
+  "readme": "",
+  "license": "MIT"
+}
